@@ -1,0 +1,12 @@
+Mahasiswa ke-1
+Nama: Faiz thahir
+NIM: 24343035
+Jurusan: Elektronika
+Program Studi: Informatika
+
+Mahasiswa ke-2
+Nama: Duta Fanroza
+NIM: 24343005
+Jurusan: Elektronika
+Program Studi: Informatika
+
