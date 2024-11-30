@@ -47,43 +47,43 @@ I am a new Informatics Engineering student at Padang State University I love web
 
 # MODUL 1 PENGANTAR ALGORITMA DAN PEMROGRAMAN
 
-**Tujuan Pembelajaran :**
+---Tujuan Pembelajaran :---
   1.	Mampu memahami, menjelaskan, mengaplikasikan algoritma melalui pemrograman.
   2.	Mempu memahami cara instalasi, fungsi dan penggunaan IDE. 
   3.	Mampu membuat, mengkompilasi, menganalisis kesalahan dalam pemrograman menggunakan IDE.
 
-**Penjelasan Singkat Materi :** <br>
-**1.	Algoritma:<br>**
+--Penjelasan Singkat Materi :--<br>
+--1.	Algoritma:<br>--
     •	Definisi: Urutan langkah-langkah sistematis untuk menyelesaikan masalah.<br>
     •	Ciri-ciri algoritma:<br>
-        	*Finiteness: Algoritma harus berakhir setelah sejumlah langkah terbatas.<br>
-        	*Kejelasan: Setiap langkah harus didefinisikan secara tepat.<br>
-        	*Masukan: Algoritma memiliki nol atau lebih masukan.<br>
-        	*Keluaran: Algoritma memiliki nol atau lebih keluaran.<br>
-          *Efektivitas: Setiap langkah harus sederhana dan dapat dikerjakan dalam waktu yang masuk akal.<br>
-          *Struktur: Urutan langkah-langkah harus terstruktur dengan baik.<br>
-**2.	Pemrograman:<br>**
+        	-Finiteness: Algoritma harus berakhir setelah sejumlah langkah terbatas.<br>
+        	-Kejelasan: Setiap langkah harus didefinisikan secara tepat.<br>
+        	-Masukan: Algoritma memiliki nol atau lebih masukan.<br>
+        	-Keluaran: Algoritma memiliki nol atau lebih keluaran.<br>
+          -Efektivitas: Setiap langkah harus sederhana dan dapat dikerjakan dalam waktu yang masuk akal.<br>
+          -Struktur: Urutan langkah-langkah harus terstruktur dengan baik.<br>
+--2.	Pemrograman:<br>--
     •	Definisi: Tindakan menulis, menguji, memperbaiki, dan memelihara kode yang dipahami komputer.<br>
     •	Proses: Melibatkan penulisan kode, analisis, dan implementasi algoritma.<br>
     •	Perbedaan antara coding dan programming: Coding adalah bagian dari programming yang 
       melibatkan penulisan kode sesuai dengan sintaks tertentu.<br>
-**3.	Bahasa Pemrograman:<br>**
+--3.	Bahasa Pemrograman:<br>--
     •	Definisi: Instruksi standar untuk meminta komputer menjalankan fungsi tertentu.<br>
     •	Jenis: Terdapat berbagai tingkat bahasa pemrograman (tingkat rendah, menengah, dan tinggi).<br>
     •	Contoh: Bahasa C, yang merupakan bahasa pemrograman umum dan mendukung pemrograman 
       terstruktur.<br>
-**4.	Pengenalan Bahasa C:<br>**
+--4.	Pengenalan Bahasa C:<br>--
     •	Sejarah: Diciptakan oleh Dennis Ritchie antara 1969-1973 di Bell Labs.<br>
     •	Keunggulan: Memudahkan pemahaman bahasa pemrograman lain dan masih banyak digunakan hingga 
       saat ini.<br>
     •	Versi: Terdapat beberapa versi seperti ANSI C, C99, C11, dan C18.<br>
-**5.	Integrated Development Environment (IDE):<br>**
+--5.	Integrated Development Environment (IDE):<br>--
     •	Definisi: Software yang digunakan programmer untuk membuat program komputer.<br>
     •	Fitur: Memiliki compiler dan debugger, memungkinkan penulisan, pengujian, dan menjalankan 
       program dalam satu aplikasi.<br>
     •	Contoh: DevC++, Microsoft Visual Studio, CodeBlocks, dll.<br>
 
-**Penjelasan Soal Latihan :**
+--Penjelasan Soal Latihan :-
   1.	Soal pertama meminta penjelasan tentang konsep dasar dalam pemrograman, yaitu algoritma, 
       pemrograman, program, programmer, dan IDE.
   2.	Soal kedua menginstruksikan untuk melakukan instalasi salah satu Integrated Development 
@@ -95,33 +95,33 @@ I am a new Informatics Engineering student at Padang State University I love web
 <br>
 
 # MODUL 2 PEMROGRAMAN DASAR C
-**Tujuan Pembelajaran :**
+--Tujuan Pembelajaran :--
 1.	Mampu memahami struktur dasar penulisan bahasa pemrograman C.
 2.	Mampu mengimplementasikan Basic Syntax C, Proses Input & Ouput dalam pemrograman menggunakan IDE.
 
    
-**Penjelasan Singkat Materi :** <br>
-**A.	Struktur Dasar C<br>**
+--Penjelasan Singkat Materi :---- <br>
+--A.	Struktur Dasar C<br>--
   •	Program C terdiri dari bagian include dan blok fungsi main.<br>
   •	Bagian include menggunakan #include untuk mengimpor header file, seperti stdio.h.<br>
   •	Fungsi main() adalah fungsi utama yang harus ada dalam setiap program C.<br>
-**B.	Sintaks dan Komponen Program<br>**
+--B.	Sintaks dan Komponen Program<br>--
   •	Setiap pernyataan diakhiri dengan titik koma (;).<br>
   •	Komentar digunakan untuk mendeskripsikan kode dan diabaikan oleh kompiler.<br>
   •	Identifier adalah nama untuk variabel dan fungsi yang harus unik dan mengikuti aturan tertentu.<br>
   •	Whitespace digunakan untuk memisahkan elemen dalam pernyataan.<br>
-**C.	Proses Input & Output<br>**
+--C.	Proses Input & Output<br>--
 •	Input adalah data yang dimasukkan ke dalam program.<br>
 •	Output adalah informasi yang dihasilkan oleh program.<br>
 •	Fungsi dasar untuk output: printf() dan puts().<br>
 •	Fungsi dasar untuk input: scanf() dan fgets().<br>
-**D.	Fungsi Input dan Output<br>**
+--D.	Fungsi Input dan Output<br>--
 •	printf() digunakan untuk menampilkan output dengan format tertentu menggunakan format specifiers.<br>
 •	puts() menampilkan string tanpa memerlukan format dan selalu membuat baris baru.<br>
 •	scanf() digunakan untuk mengambil data dari keyboard dengan format yang ditentukan.<br>
 •	fgets() lebih aman untuk mengambil input karena memungkinkan pengaturan ukuran buffer.<br>
 
-**Penjelasan Soal Latihan :**
+--Penjelasan Soal Latihan :--
 1.	Program Penyapa: Program ini meminta pengguna untuk memasukkan nama lengkap mereka dan kemudian menampilkan pesan sambutan yang mencantumkan nama tersebut.Tujuan program ini adalah untuk memperkenalkan pengguna pada konsep input dan output dalam pemrograman.
 2.	Program Data Mahasiswa:Program ini mengumpulkan data dari pengguna, termasuk nama, NIM, program studi, fakultas, dan nilai-nilai. Setelah semua data dimasukkan, program menghitung nilai akhir berdasarkan kriteria yang ditentukan dan menampilkan semua informasi dalam format yang rapi, sehingga pengguna dapat melihat data yang telah dimasukkan dengan jelas.
 3.	Program Luas Segitiga:Program ini meminta pengguna untuk memasukkan ukuran alas dan tinggi segitiga. Dengan menggunakan rumus luas segitiga, program kemudian menghitung dan menampilkan hasil luas segitiga tersebut kepada pengguna.
@@ -133,22 +133,22 @@ I am a new Informatics Engineering student at Padang State University I love web
 <br>
 
 # MODUL 3 VARIABEL,KONSTANTA,DAN TIPE DATA
-**Tujuan Pembelajaran :**
+--Tujuan Pembelajaran :--
 1.	Mampu menjelaskan dan mengimplementasikan Variables, Constanta, Data Types, Type Casting, Keywords dalam pemrograman menggunakan IDE.
 
-**Penjelasan Singkat Materi:<br>**
-**A.	Variabel<br>**
+--Penjelasan Singkat Materi:<br>--
+--A.	Variabel<br>--
 •	Variabel adalah tempat untuk menyimpan nilai sementara dalam program.<br>
 •	Tipe data menentukan jenis nilai yang dapat disimpan dalam variabel.<br>
 •	Contoh penulisan variabel dalam bahasa C: int tinggi; atau int berat = 49;.<br>
 
-**B.	Aturan Penulisan Variabel pada C<br>**
+--B.	Aturan Penulisan Variabel pada C<br>--
 •	Nama variabel tidak boleh diawali dengan simbol atau angka.<br>
 •	Nama variabel tidak boleh menggunakan kata kunci yang sudah ada dalam bahasa C (misal: if, int, void).<br>
 •	Nama variabel bersifat case sensitive (misal: nama dan Nama adalah dua variabel berbeda).<br>
 •	Disarankan menggunakan underscore untuk nama variabel yang terdiri dari dua suku kata (misal: nama_lengkap).<br>
 
-**C.	Tipe Data<br>**
+--C.	Tipe Data<br>--
 •	Tipe data adalah pengelompokan data yang membantu compiler atau interpreter dalam mengolah data.<br>
 •	Tipe data dasar dalam bahasa C meliputi:<br>
 1.	Char: menyimpan 1 karakter.<br>
@@ -157,18 +157,18 @@ I am a new Informatics Engineering student at Padang State University I love web
 4.	Double: mirip dengan float, tetapi dengan ukuran penyimpanan yang lebih besar.<br>
 •	Format penulisan untuk tipe data float dan double menggunakan tanda titik (misal: 2.5).<br>
 
-**D.	Konversi Tipe Data<br>**
+--D.	Konversi Tipe Data<br>--
 •	Konversi tipe data (type casting) adalah proses mengubah satu tipe data menjadi tipe data lain.<br>
 •	Contoh konversi tipe data dalam C: menuliskan nama tipe data di depan nilai atau variabel yang ingin diubah.<br>
 
-**E.	Konstanta<br>**
+--E.	Konstanta<br>--
 •	Konstanta adalah nilai tetap yang tidak dapat diubah setelah dideklarasikan.<br>
 •	Ada dua cara untuk mendeklarasikan konstanta dalam C:<br>
 1.	Menggunakan #define (tanpa tipe data dan tanpa titik koma).<br>
 2.	Menggunakan const (harus menyertakan tipe data dan titik koma).<br>
 •	Nama konstanta disarankan menggunakan huruf kapital untuk membedakannya dari variabel biasa.<br>
 
-**Penjelasan Soal Latihan :**
+--Penjelasan Soal Latihan :--
 1.	Program Konversi Mata Uang:Program ini menghitung konversi dari mata uang Rupiah (Rp) ke Dollar ($) dengan menggunakan nilai tukar yang telah ditentukan (1$ = Rp. 14.250). Pengguna diminta untuk memasukkan jumlah Rupiah yang ingin ditukarkan, dan program akan menghitung dan menampilkan jumlah Dollar yang diterima.
 2.	Program Konversi Suhu:Program ini meminta pengguna untuk memasukkan suhu dalam derajat Celcius. Program kemudian menghitung suhu dalam Kelvin, Fahrenheit, dan Reamur menggunakan rumus konversi yang telah ditentukan, dan menampilkan hasilnya kepada pengguna.
 3.	Program Volume dan Luas Permukaan Bola:Program ini menghitung dan menampilkan volume dan luas permukaan bola dengan diameter yang telah ditentukan (1.2 cm). Program menggunakan konstanta untuk nilai Phi (π) dan menerapkan rumus yang sesuai untuk menghitung volume dan luas permukaan, lalu menampilkan hasilnya kepada pengguna.
@@ -180,18 +180,18 @@ I am a new Informatics Engineering student at Padang State University I love web
 
 
 # MODUL 4 OPERATOR
-**Tujuan Pembelajaran :**
+--Tujuan Pembelajaran :--
 1.	Mampu menjelaskan dan mengimplementasikan Operator dalam pemrograman menggunakan IDE.
    
-**Penjelasan Singkat Materi:<br>**
-**A.	Operator<br>**
+--Penjelasan Singkat Materi:<br>--
+--A.	Operator<br>--
 •	Operator adalah simbol yang digunakan untuk melakukan operasi tertentu.<br>
 •	Contoh operator: +, -, *, /, %, etc.<br>
-**B.	Jenis Operator<br>**
+--B.	Jenis Operator<br>--
 •	Operator Unary: memiliki 1 operand (contoh: -x)<br>
 •	Operator Binary: memiliki 2 operand (contoh: x + y)<br>
 •	Operator Ternary: memiliki 3 operand (contoh: x ? y : z)<br>
-**C.	Operator Aritmatika<br>**
+--C.	Operator Aritmatika<br>--
 •	Operator aritmatika digunakan untuk melakukan operasi matematika.<br>
 •	Contoh operator aritmatika:<br>
 *Penjumlahan: +<br>
@@ -199,39 +199,39 @@ I am a new Informatics Engineering student at Padang State University I love web
 *Perkalian: *<br>
 *Pembagian: /<br>
 *Sisa Bagi: %<br>
-**D. Operator Penugasan<br>**
+--D. Operator Penugasan<br>--
 •	Operator penugasan digunakan untuk memberikan nilai pada variabel.<br>
 •	Contoh operator penugasan:<br>
-*Pengisian Nilai: =<br>
-*Pengisian dan Penambahan: +=<br>
-*Pengisian dan Pengurangan: -=<br>
-*Pengisian dan Perkalian: *=<br>
-**E. Operator Pembanding<br>**
+-Pengisian Nilai: =<br>
+-Pengisian dan Penambahan: +=<br>
+-Pengisian dan Pengurangan: -=<br>
+-Pengisian dan Perkalian: *=<br>
+--E. Operator Pembanding<br>--
 •	Operator pembanding digunakan untuk membandingkan dua nilai.<br>
 •	Contoh operator pembanding:<br>
-*Lebih Besar: ><br>
-*Lebih Kecil: <<br>
-*Sama Dengan: ==<br>
-*Tidak Sama dengan: !=<br>
-*Lebih Besar Sama dengan: >=<br>
-*Lebih Kecil Sama dengan: <=<br>
-**F. Operator Logika<br>**
+-Lebih Besar: ><br>
+-Lebih Kecil: <<br>
+-Sama Dengan: ==<br>
+-Tidak Sama dengan: !=<br>
+-Lebih Besar Sama dengan: >=<br>
+-Lebih Kecil Sama dengan: <=<br>
+--F. Operator Logika<br>--
 •	Operator logika digunakan untuk membuat operasi logika.<br>
 •	Contoh operator logika:<br>
-*Logika AND: &&<br>
-*Logika OR: ||<br>
-*Negasi: !<br>
-**G. Operator Bitwise<br>**
+-Logika AND: &&<br>
+-Logika OR: ||<br>
+-Negasi: !<br>
+--G. Operator Bitwise<br>--
 •	Operator bitwise digunakan untuk melakukan operasi pada bit-bit dari sebuah nilai.<br>
 •	Contoh operator bitwise:<br>
-*AND: &<br>
-*OR: |<br>
-*XOR: ^<br>
-*NOT: ~<br>
-*Left Shift: <<<br>
-*Right Shift: >><br>
+-AND: &<br>
+-OR: |<br>
+-XOR: ^<br>
+-NOT: ~<br>
+-Left Shift: <<<br>
+-Right Shift: >><br>
 
-**Penjelasan Soal Latihan :**
+--Penjelasan Soal Latihan :--
 1.	Program Konversi Detik ke Jam, Menit, dan Detik:Program ini meminta pengguna untuk memasukkan jumlah waktu dalam detik. Program kemudian menghitung konversi waktu tersebut menjadi jam, menit, dan sisa detik, dan menampilkan hasilnya dalam format yang mudah dipahami. Contoh input: 3700 detik menghasilkan output: 1 Jam, 1 Menit, 40 Detik.
 2.	 Program Kasir Barang:Program ini meminta inputan dari pengguna mengenai nama pembeli, nama barang, harga satuan barang, dan jumlah barang yang dibeli. Program kemudian menghitung total harga (harga barang * jumlah barang) dan menampilkan semua informasi tersebut kepada pengguna.
 3.	Program Hitung Nilai Akhir Praktikum:Program ini menghitung nilai akhir dari praktikum pemrograman C berdasarkan bobot dari beberapa komponen nilai: presensi (10%), praktek (20%), UTS (30%), dan UAS (40%). Program meminta input nilai dari masing-masing komponen dan menghitung nilai akhir, kemudian menampilkan hasilnya.
@@ -242,30 +242,30 @@ I am a new Informatics Engineering student at Padang State University I love web
 <br>
 
 # MODUL 5 FLOW CONTROL: DECISION MAKING
-**Tujuan Pembelajaran :**
+--Tujuan Pembelajaran :--
 1.	Mampu menjelaskan dan mengimplementasikan Flow Control: Pengambilan Keputusan dalam pemrograman menggunakan IDE.
 
-**Penjelasan Singkat Materi:<br>**
-**A. Pernyataan If<br>**
+--Penjelasan Singkat Materi:<br>--
+--A. Pernyataan If<br>--
 •	Definisi: Pernyataan if digunakan untuk mengeksekusi blok kode tertentu jika kondisi yang diberikan terpenuhi (benar). Jika kondisi tersebut tidak terpenuhi, program akan melanjutkan eksekusi ke baris berikutnya tanpa mengeksekusi blok tersebut.<br>
 •	Sintaks: Sintaks untuk pernyataan if terdiri dari kata kunci if diikuti dengan kondisi dalam tanda kurung, dan blok kode yang akan dieksekusi jika kondisi tersebut benar diletakkan dalam kurung kurawal.
-**B. Pernyataan If Else<br>**
+--B. Pernyataan If Else<br>--
 •	Definisi: Pernyataan if else memperluas fungsi dari pernyataan if dengan menambahkan blok alternatif yang akan dieksekusi jika kondisi dalam if tidak terpenuhi (salah).<br>
 •	Sintaks: Sintaks ini mirip dengan pernyataan if, tetapi setelah blok kode untuk kondisi benar, terdapat kata kunci else yang diikuti oleh blok kode yang akan dieksekusi jika kondisi salah.<br>
-**C. Pernyataan If Else If<br>**
+--C. Pernyataan If Else If<br>--
 •	Definisi: Pernyataan if else if memungkinkan untuk memeriksa beberapa kondisi secara berurutan. Jika salah satu kondisi benar, blok kode yang sesuai akan dieksekusi.<br>
 •	Sintaks: Dalam sintaks ini, setelah pernyataan if pertama, kita dapat menambahkan satu atau lebih pernyataan else if untuk memeriksa kondisi tambahan, diakhiri dengan blok else sebagai alternatif jika semua kondisi sebelumnya salah.<br>
-**D. Pernyataan Switch Case<br>**
+--D. Pernyataan Switch Case<br>--
 •	Definisi: Pernyataan switch case digunakan untuk memilih satu dari beberapa blok kode untuk dieksekusi berdasarkan nilai dari variabel tertentu. Ini merupakan alternatif yang lebih terstruktur dibandingkan dengan penggunaan banyak if else.<br>
 •	Sintaks: Sintaks switch dimulai dengan kata kunci switch, diikuti oleh variabel dalam tanda kurung. Di dalam blok switch, kita mendefinisikan beberapa case yang masing-masing mewakili nilai yang mungkin dari variabel tersebut, diakhiri dengan break untuk menghentikan eksekusi lebih lanjut setelah kasus yang cocok ditemukan.<br>
-**E. Operator Ternary<br>**
+--E. Operator Ternary<br>--
 •	Definisi: Operator ternary adalah cara singkat untuk mengekspresikan pengambilan keputusan dengan cara yang lebih ringkas dibandingkan dengan if else. Ini sering digunakan untuk memberikan nilai berdasarkan kondisi.<br>
 •	Sintaks: Sintaks operator ternary terdiri dari kondisi yang diikuti oleh tanda tanya, di mana jika kondisi benar, nilai pertama akan dikembalikan, dan jika salah, nilai kedua akan dikembalikan.<br>
-**F. Percabangan Bersarang<br>**
+--F. Percabangan Bersarang<br>--
 •	Definisi: Percabangan bersarang terjadi ketika satu atau lebih pernyataan if atau else if diletakkan di dalam blok kode dari pernyataan if lainnya. Ini memungkinkan untuk membuat keputusan yang lebih kompleks berdasarkan beberapa kondisi.<br>
 •	Sintaks: Sintaks untuk percabangan bersarang mirip dengan pernyataan if biasa, tetapi dengan menempatkan pernyataan if tambahan di dalam blok kode dari if yang sudah ada, memungkinkan evaluasi kondisi yang lebih dalam.<br>
 
-**Penjelasan Soal Latihan :**
+--Penjelasan Soal Latihan :--
 1.	Program Kalkulator Sederhana: Program ini meminta pengguna untuk memasukkan dua bilangan dan operator. Berdasarkan operator yang dipilih, program akan melakukan operasi aritmatika yang sesuai dan menampilkan hasilnya.
 2.	Program Diskon Pembelian: Program ini menghitung diskon berdasarkan total pembelian yang dimasukkan oleh pengguna, menggunakan beberapa kondisi untuk menentukan persentase diskon yang berlaku.
 3.	Program Rumus Luas Permukaan: Program ini menggunakan switch case untuk menghitung luas permukaan berbagai bangun (seperti bola, kubus, dan tabung) berdasarkan pilihan pengguna.
