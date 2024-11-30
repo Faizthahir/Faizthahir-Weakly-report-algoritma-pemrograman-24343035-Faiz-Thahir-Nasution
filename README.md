@@ -28,6 +28,8 @@ I am a new Informatics Engineering student at Padang State University I love web
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## WEEKLY REPORT ALGORITMA PEMROGRAMAN ##
 <br>
