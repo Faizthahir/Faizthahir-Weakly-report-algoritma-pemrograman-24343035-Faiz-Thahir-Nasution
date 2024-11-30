@@ -1,32 +1,19 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-### Hey Fa'iz Thahir Nasution here 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ### Hey Fa'iz Thahir Nasution here 👋.</h1>
 
----
+I am a new Informatics Engineering student at Padang State University I love web development and try to find out more about Full Stack Web Development and machine learning 
+  🔭 I am currently learning web development using javascript and learning the basic basics of the c language
+- 🌱 I’m currently Full Stack Web development
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: Trust to Allah for everything
+- 📫 How to reach me:
+- | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/faizthahir) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](faizthahir91@gmail.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thahirfaiz" height="" width="34" /></a>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
-<h1 align="center">Hi 👋, I'm Fa'iz Thahir  Nasution</h1>
-<h3 align="center">A STUDENT OF INFORMATICS STUDIES PROGRAM, PADANG STATE UNIVERSITY</h3>
-
-- 📫 How to reach me **faizthahir91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/thahirfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thahirfaiz" height="30" width="40" /></a>
+<a href="https://instagram.com/thahirfaiz" target="blank">
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Languages and Tools:</h3>
