@@ -12,8 +12,8 @@ I am a new Informatics Engineering student at Padang State University I love web
 
 
 [<img align= "center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/faizthahir) | 
-[<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](faizthahir91@gmail.com) | 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thahirfaiz" height="" width="34" /></a>
+[<img align="center" src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="34">](faizthahir91@gmail.com) | 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thahirfaiz" width="34" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
